@@ -1,0 +1,11 @@
+# .gitignore
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.pkl
